@@ -1,0 +1,28 @@
+body {
+    margin: 0;
+}
+
+.img {
+    background-image: url(logo.png);
+    width: 164px;
+    height: 18px;
+}
+
+.caner {
+    -webkit-box-shadow: none;
+    box-shadow: none;
+}
+    
+.back {
+    background: purple;
+    height: 75px;
+}
+
+.flex {
+    display: flex;
+    box-sizing: border-box;
+}
+.im{
+    border-radius: 5px;
+   margin-left: 50px;
+}
